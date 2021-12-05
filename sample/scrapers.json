@@ -1,7 +1,13 @@
 {
 	"1": [		
+		"https://raw.githubusercontent.com/SeedTrain/Weyd/main/en_Torrent/animetosho.json",		
 		"https://raw.githubusercontent.com/SeedTrain/Weyd/main/en_Torrent/eztv.json",
+		"https://raw.githubusercontent.com/SeedTrain/Weyd/main/en_Torrent/ytsws.json",
+		"https://raw.githubusercontent.com/SeedTrain/Weyd/main/en_Torrent/glodls.json",		
+		"https://raw.githubusercontent.com/SeedTrain/Weyd/main/en_Torrent/torrentdownload.json",
+		"https://raw.githubusercontent.com/SeedTrain/Weyd/main/en_Torrent/Paradise.json",
 		"https://raw.githubusercontent.com/SeedTrain/Weyd/main/en_Torrent/tp2.json",
+		"https://raw.githubusercontent.com/SeedTrain/Weyd/main/en_Torrent/bitlord.json"
 	],
 	"2": [
 		"https://raw.githubusercontent.com/SeedTrain/Weyd/main/en_Torrent/magnetdl.json",
